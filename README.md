@@ -1,2 +1,7 @@
-# odin-recipes
-My implementations of The Odin Project's projects.
+# The Odin Project 
+## Assignment 1: Basic Recipes website
+
+What i am learning from this assignment:
++ HTML
++ Website structure
++ Git basics
