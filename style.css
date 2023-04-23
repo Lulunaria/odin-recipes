@@ -1,13 +1,21 @@
-body{
+body
+{
     font-family: Verdana, "Time New Roman", Tahoma, sans-serif;
+    text-align: left;
+    background-color: azure;
 }
 
 .title
 {
+    width: 300px;
+    height: 40px;
     font-size: 36px;
     font-weight: bold;
+}
 
-    background-color: rgb(73, 219, 73);
+.section
+{
+    border: 1px solid black;   
 }
 
 .nutrition{
@@ -16,17 +24,25 @@ body{
 
 #warnings{
     background-color: yellow;
+    border: 3px solid red;
 }
 
 #severe-warning{
     color: red;
 }
 
-.ingredients{
-    background-color: gray;
 
+.image, img
+{
+    width: 600px;
+    border: 4px solid blue;
+    background: aquamarine;
 }
 
-.steps{
-    background-color: lightcyan;
+.home
+{
+    width: 160px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
 }
