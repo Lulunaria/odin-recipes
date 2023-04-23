@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, "Time New Roman", Tahoma, sans-serif;
+}
+
+.title
+{
+    font-size: 36px;
+    font-weight: bold;
+
+    background-color: rgb(73, 219, 73);
+}
+
+.nutrition{
+    background-color: lightblue;
+}
+
+#warnings{
+    background-color: yellow;
+}
+
+#severe-warning{
+    color: red;
+}
+
+.ingredients{
+    background-color: gray;
+
+}
+
+.steps{
+    background-color: lightcyan;
+}
